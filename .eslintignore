@@ -1,0 +1,8 @@
+# compiled outputs
+/dist/
+
+# dependencies
+/node_modules/
+
+# ignore gulp file
+gulpfile.js

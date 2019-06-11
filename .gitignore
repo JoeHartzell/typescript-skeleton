@@ -1,0 +1,14 @@
+# complied outputs
+dist
+
+# dependencies
+node_modules
+
+# environment files
+.env
+
+# visual studio files
+# in some cases you might want to include these
+# feel free to remove any of these
+.vscode
+.vs
